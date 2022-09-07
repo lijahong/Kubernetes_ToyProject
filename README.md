@@ -21,6 +21,8 @@
 
 ![](https://velog.velcdn.com/images/lijahong/post/c7c35134-e5da-4f13-8157-db06431175aa/image.png)
 > - master Node 의 브라우저에서는 hosts 에 등록한 주소로 접속이 가능하다
+
 ![](https://velog.velcdn.com/images/lijahong/post/54fe7c18-87aa-4688-aa66-91a6a49508d6/image.png)
 > - 다른 페이지도 모두 잘 접속된다 
+ 
 ![](https://velog.velcdn.com/images/lijahong/post/0151b291-8f70-4ed6-8c7b-ebd1ef9c837f/image.png)
